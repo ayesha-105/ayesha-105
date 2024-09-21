@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**ayesha-105/ayesha-105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi there! 👋
 
 👩🏻‍🏫 I’m currently pursuing a Bachelor's degree in Data Science and just starting my journey into the world of data. 
 
